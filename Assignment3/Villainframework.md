@@ -31,7 +31,7 @@
 
 ---
 ## 🛑 Final Verification
-![1](Assignment3/verification.png)
+![1](verification.png)
 
 ## 🔎 Enumeration Performed
 ```powershell
