@@ -30,6 +30,8 @@
 | User | laptop-jnna97bm\lenovo |
 
 ---
+## 🛑 Final Verification
+![1](Assignment3/verification.png)
 
 ## 🔎 Enumeration Performed
 ```powershell
@@ -54,3 +56,5 @@ System Model:              82K2
 System Type:               x64-based PC
 Processor(s):              AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~1908 Mhz
 Total Physical Memory:     14,188 MB
+
+
