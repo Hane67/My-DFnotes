@@ -107,6 +107,7 @@ No sign suggests this is a false positive or a legitimate file.
 
 ## 🖼️ Screenshots
 ### VirusTotal Detection Pages:
-![VT Screenshot 1](1829812c-0338-417f-b8ec-d12d07f6efdf.png)  
-![VT Screenshot 2](1caab2cb-9dfe-4b4b-93b2-e135e95861d8.png)  
-![VT Screenshot 3](6975aeb6-4a2f-47ac-9b1d-b214739df6ba.png)
+![1](assignment2part1.png)
+![2](assignment2part2.png)
+![3](assignment2part3.png)
+
